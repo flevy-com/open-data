@@ -36,6 +36,6 @@ To foster research and AI experimentation, we publish periodic CSV snapshots of 
 ```python
 import pandas as pd
 df = pd.read_csv(
-    "https://raw.githubusercontent.com/flevy-com/open-data/main/datasets/top_strategy.csv"
+    "https://raw.githubusercontent.com/flevy-com/open-data/top_strategy.csv"
 )
 print(df.head())
