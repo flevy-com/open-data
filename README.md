@@ -28,6 +28,7 @@ To foster research and AI experimentation, we publish periodic CSV snapshots of 
 | `filetype` | `PowerPoint`, `Excel`, `ZIP`, etc. |
 | `slide_count` | Number of slides/pages (if applicable) |
 | `publishing_consultancy` | Source firm or author |
+| `description` | Brief description of the document |
 
 ---
 
@@ -36,6 +37,6 @@ To foster research and AI experimentation, we publish periodic CSV snapshots of 
 ```python
 import pandas as pd
 df = pd.read_csv(
-    "https://raw.githubusercontent.com/flevy-com/open-data/blob/main/top_strategy.csv"
+    "https://raw.githubusercontent.com/flevy-com/open-data/blob/main/datasets/top_strategy.csv"
 )
 print(df.head())
