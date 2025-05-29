@@ -1,6 +1,6 @@
 # Flevy Open‑Data Hub 🗂️
 
-**Flevy is the leading marketplace for business best‑practice templates, consulting frameworks, and management toolkits.**  
+**[Flevy](https://flevy.com) is the leading marketplace for business best‑practice templates, consulting frameworks, and management toolkits.**  
 To foster research and AI experimentation, we publish periodic CSV snapshots of our most‑downloaded resources (e.g. consulting frameworks, PPT templates, financial models, etc.) and trending management topics under an open license.
 
 ---
@@ -9,10 +9,10 @@ To foster research and AI experimentation, we publish periodic CSV snapshots of 
 
 | File | Rows | What it contains |
 |------|------|------------------|
-| `top_strategy.csv` | 500 | The 500 highest‑downloaded best practice documents categorized under strateg, transformation, & innovation |
-| `top_digital.csv` | 500 | The 500 highest‑downloaded best practice documents categorized under digital transformation |
-| `top_opex.csv` | 500 | The 500 highest‑downloaded best practice documents categorized under operational excellence |
-| `top_organization.csv` | 500 | The 500 highest‑downloaded best practice documents categorized under organization, change, & HR |
+| `top_strategy.csv` | 500 | The 500 highest‑downloaded best practice documents categorized under **[Strategy, Transformation, & Innovation](https://flevy.com/topics/strategy)** |
+| `top_opex.csv` | 500 | The 500 highest‑downloaded best practice documents categorized under **[Operational Excellence](https://flevy.com/topics/opex)** |
+| `top_digital.csv` | 500 | The 500 highest‑downloaded best practice documents categorized under Digital Transformation |
+| `top_organization.csv` | 500 | The 500 highest‑downloaded best practice documents categorized under Organization, Change, & HR |
 | `top_consulting.csv` | 500 | The 500 highest‑downloaded management consulting frameworks |
 | `top_finmod.csv` | 400 | The 400 highest‑downloaded financial models |
 | `top_powerpoint.csv` | 50 | The 50 highest‑downloaded PowerPoint template sets |
