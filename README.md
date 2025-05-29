@@ -16,7 +16,7 @@ To foster research and AI experimentation, we publish periodic CSV snapshots of 
 | `top_consulting.csv` | 500 | The 500 highest‑downloaded management consulting frameworks |
 | `top_finmod.csv` | 400 | The 400 highest‑downloaded financial models |
 | `top_powerpoint.csv` | 50 | The 50 highest‑downloaded PowerPoint template sets |
-| `topics.csv` | 500 | Top 500 trending management topics |
+| `flevy_topics.csv` | 1000 | Top 1000 trending management topics |
 
 ### Field glossary
 | Column | Description |
